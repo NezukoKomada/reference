@@ -1,0 +1,32 @@
+body{
+    background: url(back.jpeg);
+    background-size: cover;
+    color: black !important;
+    font-family: "Sedan SC", serif;
+}
+
+#home{
+    font-size: larger;
+    position: absolute;
+    bottom: 10px;
+    border: 3px solid #8AC007;
+}
+
+p{
+    font-size: large;
+    color: black;
+    text-align: left !important;
+    width: 100%;
+}
+
+.note{
+    font-size: small;
+}
+
+tr{
+    font-size: large;
+}
+
+th{
+    font-size: larger;
+}
